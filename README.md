@@ -21,7 +21,7 @@
   
     technologies: {
      JavaScript:     ["Angular"];
-     Java:           ["SpringBoot"];
+     PHP:            ["Laravel"];
      APIs:           ["REST"];
      CloudComputing: ["Docker"];
      };
