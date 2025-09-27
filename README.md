@@ -21,7 +21,7 @@
   
     technologies: {
      JavaScript:     ["Angular"];
-     C#:             [".Net"];
+     C#:             [".NET"];
      APIs:           ["REST"];
      CloudComputing: ["Docker"];
      };
