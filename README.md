@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Rony Santana</h1>
+<h1 align="center">⚔️ Ronaldo de Oliveira Santana</h1>
 <h3 align="center">Full Stack Developer | PHP • Laravel • Vue.js</h3>
 
 <p align="center">
@@ -48,8 +48,8 @@ Meu foco é criar soluções que sobrevivam ao caos, cresçam sem dor e mantenha
 ### ⚙️ Linguagens & Ferramentas
 
 ```ts
-class RonySantana extends Developer {
-  name = "Rony Santana";
+class RonaldoSantana extends Developer {
+  name = "Ronaldo de Oliveira Santana";
   role = "Full Stack Developer";
   stack = {
     backend: ["PHP", "Laravel"],
