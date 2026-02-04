@@ -1,16 +1,39 @@
-## Hi there 👋
+## (Software Developer)
 
-<!--
-**ronyoli/Ronyoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.tenor.com/images/37e8e3a6a89828098097de4ff0f73fbb/tenor.gif" />
 
-Here are some ideas to get you started:
+```ts
+class Ronaldo extends Human {
+  name: string;
+  nationality: string;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  constructor() {
+    super();
+    this.name = "Ronaldo de Oliveira";
+    this.nationality = "Brazilian";
+  }
+
+  languages: string[] = [
+    "Portuguese 🇧🇷",
+    "English 🇺🇸",
+    "Spanish 🇪🇸"
+  ];
+
+  technologies = {
+    JavaScript: [
+      "Angular"
+    ],
+
+    Java: [
+      "SpringBoot"
+    ],
+
+    APIs: [
+      "REST"
+    ],
+
+    CloudComputing: [
+      "Docker"
+    ]
+  };
+}
