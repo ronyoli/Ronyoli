@@ -24,8 +24,8 @@ class Ronaldo extends Human {
       "Angular"
     ],
 
-    Java: [
-      "SpringBoot"
+    C#: [
+      ".NET"
     ],
 
     APIs: [
